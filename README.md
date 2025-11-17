@@ -68,7 +68,9 @@ php artisan serve
 
 
 
-
+integrantes
+nataly dayana medina 
+jeanpierre diaz
 
 
 
